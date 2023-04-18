@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Quddus. IIUM Mechatronics Engineering student.
 
 <!--
 **qryskalyst20/qryskalyst20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
