@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![DEFCON 25 Demolabs](https://hackwith.github.io/badges/defcon/25/demolabs.svg)](https://www.defcon.org/html/defcon-25/dc-25-demolabs.html)
 [![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-26/dc-26-demolabs.html)
 
-https://github-readme-activity-graph.cyclic.app/graph?username=qryskalyst20
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qryskalyst20&theme=github-compact)](https://github.com/qryskalyst20/github-readme-activity-graph)
