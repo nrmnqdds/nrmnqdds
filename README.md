@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Quddus. IIUM Mechatronics Engineering student.
+I am Quddus. IIUM Mechatronics Engineering student. Still new in this world but I love to explore A LOT of things here. Software Engineer to be!
 
 <!--
 **qryskalyst20/qryskalyst20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
