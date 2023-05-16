@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-26/dc-26-demolabs.html)
 
 
-![Qagura's GitHub stats](https://github-readme-stats.vercel.app/api?username=qryskalyst20&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
+![Qagura's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=qryskalyst20&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
 ![Qagura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qryskalyst20&theme=github-compact)
