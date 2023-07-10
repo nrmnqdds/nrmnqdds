@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![DEFCON 24 Demolabs](https://hackwith.github.io/badges/defcon/24/demolabs.svg)](https://www.defcon.org/html/defcon-24/dc-24-demolabs.html)
 [![DEFCON 25 Demolabs](https://hackwith.github.io/badges/defcon/25/demolabs.svg)](https://www.defcon.org/html/defcon-25/dc-25-demolabs.html)
 [![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-26/dc-26-demolabs.html)
-[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html)
-[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-28/dc-28-demolabs.html)
+[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/27/demolabs.svg)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html)
+[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/28/demolabs.svg)](https://www.defcon.org/html/defcon-28/dc-28-demolabs.html)
 
 
 
