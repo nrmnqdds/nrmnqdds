@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Quddus. IIUM Mechatronics Engineering student. Still new in this world but I love to explore A LOT of things here. Software Engineer to be!
+I am Quddus. IIUM Mechatronics Engineering student.
 
 <!--
 **qryskalyst20/qryskalyst20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![DEFCON 23 Demolabs](https://hackwith.github.io/badges/defcon/23/demolabs.svg)](https://www.defcon.org/html/defcon-23/dc-23-demolab.html)
-[![DEFCON 24 Demolabs](https://hackwith.github.io/badges/defcon/24/demolabs.svg)](https://www.defcon.org/html/defcon-24/dc-24-demolabs.html)
-[![DEFCON 25 Demolabs](https://hackwith.github.io/badges/defcon/25/demolabs.svg)](https://www.defcon.org/html/defcon-25/dc-25-demolabs.html)
-[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/26/demolabs.svg)](https://www.defcon.org/html/defcon-26/dc-26-demolabs.html)
-[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/27/demolabs.svg)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html)
-[![DEFCON 26 Demolabs](https://hackwith.github.io/badges/defcon/28/demolabs.svg)](https://www.defcon.org/html/defcon-28/dc-28-demolabs.html)
-
-
 
 ![Qagura's GitHub stats](https://github-readme-stats.vercel.app/api?username=qryskalyst20&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
