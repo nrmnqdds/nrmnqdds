@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Qagura's GitHub stats](https://github-readme-stats.vercel.app/api?username=qryskalyst20&show_icons=true&theme=transparent) 
+ ![Qagura's GitHub stats](https://vercel.com/qryskalyst20/github-readme-stats/GJqrz8ZdvgQVVH9f7h2HaEKxCU1A?show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
 
 ## Tech Stack
