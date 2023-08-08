@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Qagura's GitHub stats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent) 
+
+![Qagura's GitHub stats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent) 
 ![Top Langs](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
+<a href="https://app.daily.dev/q4gura"><img src="https://api.daily.dev/devcards/24bd9ef798424c32b512aa7687d25239.png?r=ggz" width="400" alt="MUHAMMAD NURIMAN QUDDUS BIN FAIZUL's Dev Card"/></a>
 
 ## Tech Stack
 
