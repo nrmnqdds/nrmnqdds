@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex; flex-direction: column;">
+  <img src="https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent" />
+  <img src="https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark" />
+  <a href="https://app.daily.dev/q4gura"><img src="https://github.com/qryskalyst20/qryskalyst20/blob/main/devcard.svg" width="400" alt="MUHAMMAD NURIMAN QUDDUS BIN FAIZUL's Dev Card"/></a>
+</div>
 
-![Qagura's GitHub stats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent) 
-![Top Langs](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
-<a href="https://app.daily.dev/q4gura"><img src="https://github.com/qryskalyst20/qryskalyst20/blob/main/devcard.svg" width="400" alt="MUHAMMAD NURIMAN QUDDUS BIN FAIZUL's Dev Card"/></a>
 
 ## Tech Stack
 
