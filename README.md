@@ -29,6 +29,8 @@ I am Quddus. IIUM Mechatronics Engineering student. Open Source Developer.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
+
 <div>
   <img align="left" src="https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent" />
   <img align="left" src="https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark" />
