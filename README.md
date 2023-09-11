@@ -1,8 +1,5 @@
 ### Hi there 👋
 I am Quddus. IIUM Mechatronics Engineering student. Open Source Developer.
-<div>
-  <a href="https://app.daily.dev/q4gura"><img align="right" src="https://github.com/qryskalyst20/qryskalyst20/blob/main/devcard.svg" width="400" alt="MUHAMMAD NURIMAN QUDDUS BIN FAIZUL's Dev Card"/></a>
-</div>
 
 ## Tech Stack
 
