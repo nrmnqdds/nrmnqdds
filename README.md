@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Quddus. IIUM Mechatronics Engineering student. Open Source Developer.
+I am Quddus. IIUM Mechatronics Engineering student. Hobbyist Software Developer.
 
 ## Tech Stack
 
