@@ -1,7 +1,13 @@
-### Hi there 👋
-I am Quddus. IIUM Mechatronics Engineering student. Hobbyist Software Developer.
+<h1 align="center"> Hi there 👋 </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
+Hello, I'm **Quddus**. I’m **20 years old**.
+
+I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
+
+### Highlight Projects 🚧
+
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=qryskalyst20&repo=simplified-imaluum&theme=github_dark)](https://github.com/qryskalyst20/simplified-imaluum)
 
 ### Frameworks/Platforms
 
@@ -19,12 +25,9 @@ I am Quddus. IIUM Mechatronics Engineering student. Hobbyist Software Developer.
 
 ### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,java)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
