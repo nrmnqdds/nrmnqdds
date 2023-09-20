@@ -1,10 +1,14 @@
-<h1 align="center"> Hi there 👋 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"> Hi there!👋</h1>
 
 <div align="center">
   
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif?raw=true"  />
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z5lexlt6vltlcgkn0xd4d9sn6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 Hello, I'm **Quddus**. I’m **20 years old**.
 
@@ -32,7 +36,7 @@ I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,java)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
