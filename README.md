@@ -26,6 +26,7 @@ I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![Chartjs](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
@@ -40,7 +41,13 @@ I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
 
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
-<div>
-  <img align="left" src="https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent" />
-  <img align="left" src="https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark" />
-</div>
+
+![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent)
+![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
+
+
+## Where to find me 📱
+<a href="https://github.com/qryskalyst20" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/nrmnqdds" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/nrmnqdds" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
