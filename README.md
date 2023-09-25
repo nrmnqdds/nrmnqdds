@@ -11,7 +11,7 @@
 Hello, I'm **Quddus**. I’m **20 years old**.
 
 - I'm an **IIUM Mechatronic Engineering** student currently struggling in uni😢
-- A passionate software developer with a laser focus on React.js, especially Next.js technologies.
+- A passionate software developer with a laser focus on React.js, especially Next.js technology.
 
 ## Highlight Projects ✨
 
