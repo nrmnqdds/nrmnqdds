@@ -15,6 +15,7 @@ I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
 ## Highlight Projects ✨
 
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=qryskalyst20&repo=simplified-imaluum&theme=github_dark)](https://github.com/qryskalyst20/simplified-imaluum)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=Youth-Icon&repo=xprofile&theme=github_dark)](https://github.com/Youth-Icon/xprofile)
 
 ## Frameworks/Platforms 👷
 
