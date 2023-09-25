@@ -10,7 +10,8 @@
 
 Hello, I'm **Quddus**. I’m **20 years old**.
 
-I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
+- I'm an **IIUM Mechatronic Engineering** student currently struggling in uni😢
+- A passionate software developer with a laser focus on React.js, especially Next.js technologies.
 
 ## Highlight Projects ✨
 
@@ -27,6 +28,7 @@ I'm an **IIUM Mechatronic Engineering** student currently struggling in uni 😢
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![Supabase](https://img.shields.io/badge/Supabase-6DA55F?style=for-the-badge&logo=supabase&logoColor=white)
 ![Chartjs](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Postman](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
