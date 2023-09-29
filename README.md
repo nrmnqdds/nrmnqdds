@@ -41,7 +41,7 @@ Hello, I'm **Quddus**. I’m **20 years old**.
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
 
-![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&theme=transparent)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=qryskalyst20&rank_icon=percentile&show_icons=true&theme=dark&show=reviews)
 ![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
 
 
