@@ -45,7 +45,7 @@ Hello, I'm **Quddus**. I’m **20 years old**.
 
 
 ![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&rank_icon=percentile&show_icons=true&theme=dark)
-![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark)
+![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark&hide=scss,css,html,python)
 
 
 ## Where to find me 📱
