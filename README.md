@@ -14,6 +14,7 @@ Hello, I'm **Quddus**. I’m **20 years old**.
 - A passionate software developer with a laser focus on React, especially Next.js framework.
 - I use arch btw
 - Build projects for fun
+- "**Don't** build a **cheaper** alternative to good product, **Build** an **expensive** alternative to bad product"
 - Currently learning Rust 🦀
 
 ## Highlight Projects ✨
