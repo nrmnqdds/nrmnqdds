@@ -51,12 +51,12 @@ Hello, I'm **Quddus**. I’m **20 years old**.
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
 
-![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=qryskalyst20&rank_icon=percentile&show_icons=true&theme=dark)
-![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=qryskalyst20&layout=compact&theme=dark&hide=scss,css,html,python)
+![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=nrmnqdds&rank_icon=percentile&show_icons=true&theme=dark)
+![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=nrmnqdds&layout=compact&theme=dark&hide=scss,css,html,python)
 
 
 ## Where to find me 📱
-<a href="https://github.com/qryskalyst20" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/nrmnqdds" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/nrmnqdds" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/nrmnqdds" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
