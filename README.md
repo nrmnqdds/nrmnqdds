@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 Hello, I'm **Quddus**. I’m **20 years old**.
 
 - I'm an **IIUM Mechatronic Engineering** student currently struggling in uni😢
