@@ -20,10 +20,19 @@ Hello, I'm **Quddus**. I’m **20 years old**.
 
 ## Highlight Projects ✨
 
+### Web App 💻
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=simplified-imaluum&theme=github_dark)](https://github.com/nrmnqdds/simplified-imaluum)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=ideaspace&theme=github_dark)](https://github.com/nrmnqdds/ideaspace)
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=hellofaizan&repo=xprofile&theme=github_dark)](https://github.com/hellofaizan/xprofile)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex-api&theme=github_dark)](https://github.com/nrmnqdds/dragondex-api)
+
+
+### Mobile App 📱
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=fuelmy&theme=github_dark)](https://github.com/nrmnqdds/fuelmy)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex&theme=github_dark)](https://github.com/nrmnqdds/dragondex)
+
+### API Development 🔧
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex-api&theme=github_dark)](https://github.com/nrmnqdds/dragondex-api)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=imaluum-backend&theme=github_dark)](https://github.com/nrmnqdds/imaluum-backend)
 
 ## Frameworks/Platforms 👷
 
