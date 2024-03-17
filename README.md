@@ -13,10 +13,10 @@
 Hello, I'm **Quddus**. I’m **21 years old**.
 
 - I'm an **IIUM Mechatronic Engineering** student currently struggling in uni😢
-- A passionate software developer with a laser focus on React, especially Next.js framework.
+- A passionate software developer
+- I do website, web app, mobile app, API development, chrome extensions
 - I use arch btw
 - Build projects for fun
-- Currently learning Rust 🦀
 
 ## Highlight Projects ✨
 
