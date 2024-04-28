@@ -30,6 +30,9 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=fuelmy&theme=github_dark)](https://github.com/nrmnqdds/fuelmy)
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex&theme=github_dark)](https://github.com/nrmnqdds/dragondex)
 
+### Library Development 🔧
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=mallam-npm&theme=github_dark)](https://github.com/nrmnqdds/mallam-npm)
+
 ### API Development 🔧
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex-api&theme=github_dark)](https://github.com/nrmnqdds/dragondex-api)
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=imaluum-backend&theme=github_dark)](https://github.com/nrmnqdds/imaluum-backend)
