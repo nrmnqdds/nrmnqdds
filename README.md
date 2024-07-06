@@ -12,10 +12,9 @@
 
 Hello, I'm **Quddus**. I’m **21 years old**.
 
-- I'm an **IIUM Mechatronic Engineering** student currently struggling in uni😢
 - A passionate software developer
+- Mechatronics Engineering Alumni from International Islamic University Malaysia
 - I do website, web app, mobile app, API development, chrome extensions
-- I use arch btw
 - Build projects for fun
 
 ## Highlight Projects ✨
@@ -54,8 +53,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-6DA55F?style=for-the-badge&logo=supabase&logoColor=white)
 ![Chartjs](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Programming Languages 💻
 
