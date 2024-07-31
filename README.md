@@ -13,7 +13,7 @@
 Hello, I'm **Quddus**. I’m **21 years old**.
 
 - A passionate software developer
-- Mechatronics Engineering Alumni from International Islamic University Malaysia
+- Mechatronics Engineering Alumni from International Islamic University Malaysia(IIUM)
 - I do website, web app, mobile app, API development, chrome extensions
 - Build projects for fun
 
