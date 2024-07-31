@@ -22,7 +22,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 ### Web App 💻
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=simplified-imaluum&theme=github_dark)](https://github.com/nrmnqdds/simplified-imaluum)
 [![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=ideaspace&theme=github_dark)](https://github.com/nrmnqdds/ideaspace)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=hellofaizan&repo=xprofile&theme=github_dark)](https://github.com/hellofaizan/xprofile)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=mallamchat&theme=github_dark)](https://github.com/nrmnqdds/mallamchat)
 
 
 ### Mobile App 📱
