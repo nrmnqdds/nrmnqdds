@@ -39,6 +39,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 ## Frameworks/Platforms 👷
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -57,7 +58,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 
 ## Programming Languages 💻
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,python)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
