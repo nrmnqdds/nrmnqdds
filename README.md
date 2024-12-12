@@ -65,6 +65,14 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 <img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/nrmnqdds?pet-id=654958332017768382"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=nrmnqdds&rank_icon=percentile&show_icons=true&theme=dark)
 ![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=nrmnqdds&layout=compact&theme=dark&hide=scss,css,html,python)
 
