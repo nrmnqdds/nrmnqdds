@@ -74,7 +74,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 </a>
   
 ![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=nrmnqdds&rank_icon=percentile&show_icons=true&theme=dark)
-![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=nrmnqdds&layout=compact&theme=dark&hide=scss,css,html,python)
+![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=nrmnqdds&layout=compact&theme=dark&hide=scss,css,html,python,javascript)
 
 
 ## Where to find me 📱
