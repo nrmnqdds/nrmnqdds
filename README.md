@@ -10,7 +10,7 @@
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-Hello, I'm **Quddus**. I’m **21 years old**.
+Hello, I'm **Quddus**. I’m **22 years old**.
 
 - A passionate software developer
 - Mechatronics Engineering Alumni from International Islamic University Malaysia(IIUM)
@@ -58,7 +58,7 @@ Hello, I'm **Quddus**. I’m **21 years old**.
 
 ## Programming Languages 💻
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,lua)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
