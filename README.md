@@ -17,26 +17,6 @@ Hello, I'm **Quddus**. I’m **22 years old**.
 - I do website, web app, mobile app, API development, chrome extensions
 - Build projects for fun
 
-## Highlight Projects ✨
-
-### Web App 💻
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=simplified-imaluum&theme=github_dark)](https://github.com/nrmnqdds/simplified-imaluum)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=ideaspace&theme=github_dark)](https://github.com/nrmnqdds/ideaspace)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=mallamchat&theme=github_dark)](https://github.com/nrmnqdds/mallamchat)
-
-
-### Mobile App 📱
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=fuelmy&theme=github_dark)](https://github.com/nrmnqdds/fuelmy)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex&theme=github_dark)](https://github.com/nrmnqdds/dragondex)
-
-### Library Development 🔧
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=mallam-npm&theme=github_dark)](https://github.com/nrmnqdds/mallam-npm)
-
-### API Development 🔧
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=gomaluum&theme=github_dark)](https://github.com/nrmnqdds/gomaluum)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=dragondex-api&theme=github_dark)](https://github.com/nrmnqdds/dragondex-api)
-[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=nrmnqdds&repo=imaluum-backend&theme=github_dark)](https://github.com/nrmnqdds/imaluum-backend)
-
 ## Frameworks/Platforms 👷
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -63,9 +43,7 @@ Hello, I'm **Quddus**. I’m **22 years old**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<img src="https://komarev.com/ghpvc/?username=qryskalyst20&label=Profile%20views&color=blueviolet" alt="qagura" />
-
-
+<!---
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/nrmnqdds?pet-id=654958332017768382"
@@ -73,10 +51,10 @@ Hello, I'm **Quddus**. I’m **22 years old**.
     height="120"
   />
 </a>
+--->
   
 ![GithubStats](https://github-readme-stats-indol-eta-80.vercel.app/api?username=nrmnqdds&rank_icon=percentile&show_icons=true&theme=dark)
 ![GithubLab](https://github-readme-stats-indol-eta-80.vercel.app/api/top-langs/?username=nrmnqdds&layout=compact&theme=dark&hide=scss,css,html,python,javascript)
-
 
 ## Where to find me 📱
 <a href="https://github.com/nrmnqdds" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
